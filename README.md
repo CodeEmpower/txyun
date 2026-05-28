@@ -49,7 +49,7 @@ python tencent_server_seckill.py
 2. 显示倒计时等待到目标时间
 3. 提前 `ADVANCE_MS` 毫秒开始并发请求
 4. 抢购成功后自动停止
-<img width="207" height="597" alt="image" src="https://github.com/user-attachments/assets/403fc2e9-385c-4939-aea0-997adb97c0ba" />
+<img width="509" height="571" alt="image" src="https://github.com/user-attachments/assets/b5a53294-1520-4ddc-a755-892fb9039273" />
 
 
 ## 参数说明
